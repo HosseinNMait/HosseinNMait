@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hossein @HosseinNMait
+- 👋 Hi, I’m Hossein @hossein-naseri
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything related to data science or python programming.
 - 📫 You can reach me via my linkedIn: www.linkedin.com/in/hossein-naseri-6549a3a8
